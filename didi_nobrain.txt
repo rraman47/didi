@@ -1,0 +1,7 @@
+Didi has no brain.
+This article is about the installation of two famous drawing applications on Ubuntu, 
+that give you the same experience as MS Paint. 
+These are the XPaint and Pinta tools. 
+Both these applications can be installed 
+from the Ubuntu Software Manager and from the command line.
+ For educational purpose we will explain a different method of installation for each of these tools:
