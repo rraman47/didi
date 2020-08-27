@@ -1,4 +1,4 @@
-Didi has no brain.
+Didi has no brain. There is no doubt about that.
 This article is about the installation of two famous drawing applications on Ubuntu, 
 that give you the same experience as MS Paint. 
 These are the XPaint and Pinta tools. 
